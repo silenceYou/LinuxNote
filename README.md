@@ -40,3 +40,5 @@ Ctrl+R  重做
 5、choxin
 
 last update
+
+wait for syns
