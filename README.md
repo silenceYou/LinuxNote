@@ -37,3 +37,4 @@ Ctrl+R  重做
 :set number  显示行号
 
 4、测试
+5、choxin
